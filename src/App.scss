@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    h2 {
+        text-transform: uppercase;
+        font-size: 16px;
+        border-bottom: 2px solid black;
+        padding-bottom: 15px;;
+        margin-top: 40px;
+    }
+    .todo {
+        .todo-container {
+            margin-bottom: 20px;
+            .text-elements-container {
+                display: flex;
+                .input-textarea {
+                    font-size: 16px;
+                    margin: 0;
+                }
+            }
+            .btn-container {
+                display: flex;
+                margin: 10px 4px 4px 4px;
+                .btn-edit, .btn-save, .btn-delete {
+                   margin-right: 10px; 
+                   padding: 6px;
+                }
+            }
+        }
+        .strike-through {
+            text-decoration: line-through;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .not-hidden {
+            display: block;
+        }
+    }
+
+}

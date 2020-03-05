@@ -1,0 +1,775 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render App with props 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="todo"
+      >
+        <h2>
+          Add Item
+        </h2>
+        <div>
+          <input
+            id="add"
+            type="text"
+          />
+          <button>
+            Add
+          </button>
+        </div>
+        <h2>
+          To Do
+        </h2>
+        <ul>
+          <div
+            class="class-name"
+            id="todo-item-1"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-1"
+            >
+              sample 2
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-1"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-1"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+          <div
+            class="class-name"
+            id="todo-item-2"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-2"
+            >
+              sample 3
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-2"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-2"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+          <div
+            class="class-name"
+            id="todo-item-3"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-3"
+            >
+              sample 4
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-3"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-3"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+          <div
+            class="class-name"
+            id="todo-item-4"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-4"
+            >
+              sample 5
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-4"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-4"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+        </ul>
+        <h2>
+          Complete
+        </h2>
+        <ul>
+          <div>
+            <input
+              checked=""
+              disabled=""
+              type="checkbox"
+            />
+            <span
+              class="strike-through"
+            >
+              sample 1
+            </span>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="todo"
+    >
+      <h2>
+        Add Item
+      </h2>
+      <div>
+        <input
+          id="add"
+          type="text"
+        />
+        <button>
+          Add
+        </button>
+      </div>
+      <h2>
+        To Do
+      </h2>
+      <ul>
+        <div
+          class="class-name"
+          id="todo-item-1"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-1"
+          >
+            sample 2
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-1"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-1"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+        <div
+          class="class-name"
+          id="todo-item-2"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-2"
+          >
+            sample 3
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-2"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-2"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+        <div
+          class="class-name"
+          id="todo-item-3"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-3"
+          >
+            sample 4
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-3"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-3"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+        <div
+          class="class-name"
+          id="todo-item-4"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-4"
+          >
+            sample 5
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-4"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-4"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+      </ul>
+      <h2>
+        Complete
+      </h2>
+      <ul>
+        <div>
+          <input
+            checked=""
+            disabled=""
+            type="checkbox"
+          />
+          <span
+            class="strike-through"
+          >
+            sample 1
+          </span>
+        </div>
+      </ul>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders learn react link 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="todo"
+      >
+        <h2>
+          Add Item
+        </h2>
+        <div>
+          <input
+            id="add"
+            type="text"
+          />
+          <button>
+            Add
+          </button>
+        </div>
+        <h2>
+          To Do
+        </h2>
+        <ul>
+          <div
+            class="class-name"
+            id="todo-item-1"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-1"
+            >
+              sample 2
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-1"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-1"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+          <div
+            class="class-name"
+            id="todo-item-2"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-2"
+            >
+              sample 3
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-2"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-2"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+          <div
+            class="class-name"
+            id="todo-item-3"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-3"
+            >
+              sample 4
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-3"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-3"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+          <div
+            class="class-name"
+            id="todo-item-4"
+          >
+            <input
+              type="checkbox"
+            />
+            <p
+              contenteditable="false"
+              id="item-text-4"
+            >
+              sample 5
+            </p>
+            <div>
+              <button
+                class="not-hidden"
+                id="edit-button-4"
+              >
+                Edit
+              </button>
+              <button
+                class="hidden"
+                id="save-button-4"
+              >
+                Save
+              </button>
+              <button>
+                Delete
+              </button>
+            </div>
+          </div>
+        </ul>
+        <h2>
+          Complete
+        </h2>
+        <ul>
+          <div>
+            <input
+              checked=""
+              disabled=""
+              type="checkbox"
+            />
+            <span
+              class="strike-through"
+            >
+              sample 1
+            </span>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="todo"
+    >
+      <h2>
+        Add Item
+      </h2>
+      <div>
+        <input
+          id="add"
+          type="text"
+        />
+        <button>
+          Add
+        </button>
+      </div>
+      <h2>
+        To Do
+      </h2>
+      <ul>
+        <div
+          class="class-name"
+          id="todo-item-1"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-1"
+          >
+            sample 2
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-1"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-1"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+        <div
+          class="class-name"
+          id="todo-item-2"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-2"
+          >
+            sample 3
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-2"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-2"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+        <div
+          class="class-name"
+          id="todo-item-3"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-3"
+          >
+            sample 4
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-3"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-3"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+        <div
+          class="class-name"
+          id="todo-item-4"
+        >
+          <input
+            type="checkbox"
+          />
+          <p
+            contenteditable="false"
+            id="item-text-4"
+          >
+            sample 5
+          </p>
+          <div>
+            <button
+              class="not-hidden"
+              id="edit-button-4"
+            >
+              Edit
+            </button>
+            <button
+              class="hidden"
+              id="save-button-4"
+            >
+              Save
+            </button>
+            <button>
+              Delete
+            </button>
+          </div>
+        </div>
+      </ul>
+      <h2>
+        Complete
+      </h2>
+      <ul>
+        <div>
+          <input
+            checked=""
+            disabled=""
+            type="checkbox"
+          />
+          <span
+            class="strike-through"
+          >
+            sample 1
+          </span>
+        </div>
+      </ul>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
